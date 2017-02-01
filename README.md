@@ -20,3 +20,6 @@ Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo 
 # Talleres hasta el momento
 * [Mi amiga la terminal](/Talleres/Mi_amiga_terminal/Page1.md)
 * [Mi amigo Git](/Talleres/Git/Page1.md)
+* [Lo básico de HTML & CSS](/Talleres/html-css/Inicio.md)
+* [Lo básico de Foundation 6](/Talleres/foundation/page1.md)
+* [Lo básico de Firebase](/Talleres/firebase-course/index.md)
