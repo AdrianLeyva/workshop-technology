@@ -6,17 +6,18 @@
 
 ![A Tech Guy](assets/techguy.jpg)
 
-##### Te encuentras desarrollando la mejor aplicacion del mundo que salvará vidas, la aplicación que cambiará al mundo y lo hará un mejor lugar!
+##### Te encuentras desarrollando la mejor aplicacion del mundo que salvará vidas, que cambiará al mundo y lo hará un mejor lugar para vivir!
 
 ![Best App Ever](assets/bestappever.jpg)
 
-##### Inviertes esfuerzo, sudor, lágrimas, horas y horas, tazas y tazas de café... Finalmente terminaste tu aplicación! Estás listo para lucirte en el cuadrilátero!
+##### Inviertes esfuerzo, sudor, lágrimas, horas y horas de trabajo, tazas y tazas de café... Finalmente terminaste tu aplicación! Estás listo para lucirte en el cuadrilátero!
 
 ![Rocky Balboa for the Win!](assets/rockywin.jpg)
 
 ##### Pero, te detienes un momento a reflexionar sobre como puedes hacer que las personas puedan usar tu aplicación si hasta ahora la has probado solo en tu computadora...?
 
 ![Thinking Face](assets/thinkingface.png)
+
 
 ##### Aquí es donde Heroku viene al rescate!
 

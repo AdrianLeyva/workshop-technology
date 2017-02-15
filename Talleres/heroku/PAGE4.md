@@ -1,4 +1,4 @@
-# Show me some action!
+# Give me some action!
 
 Es momento de poner en práctica todos los conocimientos base y experimentar con el despliegue de aplicaciones hacia Heroku.
 
@@ -21,7 +21,7 @@ $ npm install
 $ node start.js
 ```
 
-Finalmente podemos entrar a http://localhost:3000 y ver la aplicación en acción.
+Finalmente podemos entrar a `http://localhost:3000` y ver la aplicación en acción.
 
 Ahora, debemos hacer el despligue a heroku
 
@@ -37,7 +37,10 @@ Puedes ir a tu dashboard de aplicaciones en Heroku y verificar la creación de l
 
 ##### Resolución de problemas.
 
-La aplicación probablemente haya iniciado con un error y no podamos abrirla desde Heroku, este error se encuentra en el commit [e4653a0](https://github.com/amirrajan/nodejs-chat/tree/e4653a02f20942e3ccd72bd7f29223eaa786cecd). Para resolver este problema debemos revisar los Logs de nuestra aplciación en Heroku. En el caso del ejemplo del chat esto es lo que debes hacer:
+La aplicación probablemente haya iniciado con un error y no podamos abrirla desde Heroku, este error se encuentra en el commit [e4653a0](https://github.com/amirrajan/nodejs-chat/tree/e4653a02f20942e3ccd72bd7f29223eaa786cecd). Para resolver este problema debemos revisar los Logs de nuestra aplciación en Heroku. Para ver los Logs podemos ejecutar `$ heroku logs` en nuestra terminal o acceder desde el panel de nuestra aplicación en Heroku.
+
+
+En el caso del ejemplo del chat esto es lo que debes hacer:
 
 * En el archivo package.json del código del proyecto debemos ubicar el siguiente bloque:
 
@@ -92,7 +95,7 @@ $ npm install
 $ node server.js
 ```
 
-Finalmente podemos entrar a http://localhost:3000 y ver la aplicación en acción.
+Finalmente podemos entrar a `http://localhost:3000` y ver la aplicación en acción.
 
 Ahora, debemos hacer el despligue a heroku
 
@@ -107,7 +110,7 @@ Puedes ir a tu dashboard de aplicaciones en Heroku y verificar la creación de l
 
 ##### Resolución de problemas.
 
-La aplicación probablemente haya iniciado con un error y no podamos abrirla desde Heroku. Si ejecutamos el siguiente comando `$ heroku logs` podremos notar que el problema se encuentra en la línea:
+La aplicación probablemente haya iniciado con un error y no podamos abrirla desde Heroku. Si ejecutamos el siguiente comando `$ heroku logs` veremos desde nuestra terminal los Logs de nuestra aplicación en Heroku y podremos notar que el problema se encuentra en la línea:
 
 ```
 throw "Not sure how to connect to redis.";

@@ -47,7 +47,7 @@ Dentro de un Dyno podemos encontrar:
 
 ![Heroku Dyno](assets/herokudyno.png)
 
-Por lo tanto, nuestra aplicación se encontrará contenida en un **Dyno** totalmente administrado por Heroku, en pocas palabras Heroku se vuelve nuestro [DevOps](https://es.wikipedia.org/wiki/DevOps)
+Por lo tanto, nuestra aplicación se encontrará contenida en un **Dyno** totalmente administrado por Heroku, en pocas palabras Heroku se vuelve nuestro [DevOps](https://es.wikipedia.org/wiki/DevOps) ... de cierto modo.
 
 ### Ejecuta lo que sea
 
