@@ -1,6 +1,7 @@
 # Conceptos Básicos
 
-### Tres capacidades principales de los Bots para Messenger
+
+#### Tres capacidades principales de los Bots para Messenger
 
 1. API de envío/recepción. Esta capacidad incluye la capacidad de enviar y recibir texto, imágenes y burbujas ricas con CTAs (Call to Actions).
 

@@ -2,7 +2,8 @@
 
 Los Bots de Messenger usan un servidor web pra procesar los mensajes que reciben o para configurar los mensajes que enviará. Además necesitamos que el Bot (servidor) se autentique para comunicarse con los servidores de Facebook.
 
-## Configurar el Servidor
+
+### Configurar el Servidor
 
 *Nota: El código base con la configuración del servidor lo puedes encontrar [aquí](https://github.com/LuisBurgos/workshoptechie/tree/master)*
 
@@ -79,7 +80,7 @@ Los Bots de Messenger usan un servidor web pra procesar los mensajes que reciben
   git push heroku master
   ```
 
-## Configurar la Página de Facebook
+### Configurar la Página de Facebook
 
 Crear o configurar una página de Facebook o aplicación de Facebook en https://developers.facebook.com/apps/
 
@@ -101,7 +102,7 @@ Abre tu terminal y ejecuta el siguiente comando usando el Token del paso anterio
   curl -X POST "https://graph.facebook.com/v2.6/me/subscribed_apps?access_token=<PAGE_ACCESS_TOKEN>"
   ```
 
-## Configurar el Bot
+### Configurar el Bot
 
 *Nota: El código base con la configuración de envío de mensajes lo puedes encontrar [aquí](https://github.com/LuisBurgos/workshoptechie/tree/first-version)*
 

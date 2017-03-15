@@ -3,7 +3,7 @@
 
 Como Zuckerberg ha mencionado:
 
-    "Nadie quiere tener que instalar una nueva aplicación para cada una de los negocios o servicios con los que desea interactuar"
+> Nadie quiere tener que instalar una nueva aplicación para cada una de los negocios o servicios con los que desea interactuar
 
 Un "Bot" es un término generalizado y usado para describir cualquier sistema software que automatiza una tarea. Un "Chatbot" automatiza una conversación, o al menos las principales partes de una.
 
@@ -21,11 +21,11 @@ La empresa HP implementó un bot para Facebook Messenger que le permite a sus us
 
 Healthtap es un proveedor de salud interactivo que conecta a los usuarios con el asesoramiento de profesionales médicos. Healthtap creó un bot que permite a los usuarios escribir una pregunta médica en Facebook Messenger y recibir una respuesta gratuita de un médico o navegar por artículos de preguntas similares.
 
-El usuario de este ejemplo está preguntando en `lenguaje natural` sobre un problema de salud específico. Desde el punto de vista del usuario, esto es similar a enviar mensajes de texto a un amigo.
-
 ![Healthtap Bot](assets/healthtap-bot.png)
 
-#### WTF Is That (The ultimate time waster)
+El usuario de este ejemplo está preguntando en `lenguaje natural` sobre un problema de salud específico. Desde el punto de vista del usuario, esto es similar a enviar mensajes de texto a un amigo.
+
+#### WTF Is That
 
 Simplemente envíe al bot una imagen de algo que se quiere identificar, y unos minutos más tarde te envía una respuesta.
 
